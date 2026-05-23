@@ -1,0 +1,4 @@
+interface:
+  display_name: "HuiTan Compose"
+  short_description: "把灰谈访谈与咨询内容转成可发表的公共案例文章工作包"
+  default_prompt: "使用 $huitan-compose 基于访谈转写、背景资料和提问者问题，生成一篇灰谈公共案例文章。"
