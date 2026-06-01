@@ -39,6 +39,7 @@ description: "灰谈个案公共化编辑器。Use when Codex needs to turn 灰�
 
 - 写完整工作包或需要稳定流程时，读 `references/workflow.md`。
 - 用户强调“文风、口吻、排版、像青年志/十字路口/公众号栏目”时，读 `references/style-and-layout.md`。
+- 用户要求公众号发布、封面图、文中配图、金句图、栏目主视觉或图文排版时，读 `references/visual-system.md`。
 - 需要拆成多段 agentic prompt、给其他 Agent 或模型复用时，读 `references/prompt-library.md`。
 - 需要输出标准化中间文件、文章包、对谈稿或发布正文时，读 `references/output-templates.md`。
 
